@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: de.moges.sonarqube.test.sonarqube_test.SonarqubeTestApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.306 s -- in de.moges.sonarqube.test.sonarqube_test.SonarqubeTestApplicationTests
