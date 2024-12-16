@@ -3,4 +3,4 @@ a spring boot app with maven + sonarqube
 
 
 # sonartoken
-sqa_ea8394d8c2825298170a571eaf35ed7c0e055c6e
+sqa_a92bb037e74f81750f0bbffb4b4883d5733ca1c6
